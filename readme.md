@@ -52,4 +52,4 @@ Termine mi carrera que habia abandonado cuando cumplí mis 50 años. Realmente d
 ![](./files/data_mx.bmp)
 ![](./files/cobol-silvertech.png)
 ![](./files/reactQuery.png)
-
+![](./files/eidos_ia.png)
